@@ -1,5 +1,6 @@
 # 🌍 World Indicator Analysis – API Live Integration Dashboard
-API-driven live Power BI dashboard for real-time analysis of global socio-economic indicators using Python and World Bank data.
+This project focuses on building a live, automated, and interactive dashboard for analyzing global socio-economic indicators using Python and Power BI.
+The dashboard is powered by a publicly available global API that is regularly updated. A Python-based data pipeline automatically extracts, cleans, and processes the data, which is then directly connected to Power BI via a live data connection. As new data becomes available, the dashboard refreshes automatically—no manual downloads or refresh actions are required.
 
 ## 📌 Project Overview
 
